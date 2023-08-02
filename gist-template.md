@@ -48,12 +48,12 @@ The primary way you group a section of a regex is by using parentheses (()). Enc
 
 ### Bracket Expressions
 
-    Brackets are exactly that '[]'. An expression for a number search such as '[7-13]' is an example of Bracket Expression.
+Brackets are exactly that '[]'. An expression for a number search such as '[7-13]' is an example of Bracket Expression.
 
 ### Character Escapes
 
-    Use '\' when searching for strings that would have special characters that are the same in particular component of the code. Using one open curly brace ({) in regex searches for the charcter itself instead of starging a quantifier.
+Use '\' when searching for strings that would have special characters that are the same in particular component of the code. Using one open curly brace ({) in regex searches for the charcter itself instead of starging a quantifier.
 
 ## Author
 
-    My name is Mckay Memmott, I'm a student at the UofU for full stack development. My github: https://github.com/mkidee
+My name is Mckay Memmott, I'm a student at the UofU for full stack development. My github: https://github.com/mkidee
